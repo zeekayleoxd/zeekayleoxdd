@@ -60,6 +60,96 @@
     />
 
     <script src="/core/assets/vendor/modernizr/modernizr.min.js?v=3.11.7"></script>
+    <style>
+        .contact-us-section {
+            padding: 80px 0;
+            background: #f4f4f4;
+        }
+        .contact-us-section .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+        .contact-us-inner {
+            max-width: 700px;
+            margin: 0 auto;
+        }
+        .contact-us-title {
+            font-size: 36px;
+            font-weight: 700;
+            color: #003b71;
+            margin-bottom: 10px;
+            text-align: center;
+        }
+        .contact-us-subtitle {
+            font-size: 16px;
+            color: #666;
+            margin-bottom: 40px;
+            text-align: center;
+        }
+        .contact-form .form-row {
+            display: flex;
+            gap: 20px;
+        }
+        .contact-form .form-row .form-group {
+            flex: 1;
+        }
+        .contact-form .form-group {
+            margin-bottom: 20px;
+        }
+        .contact-form label {
+            display: block;
+            font-size: 14px;
+            font-weight: 600;
+            color: #333;
+            margin-bottom: 6px;
+        }
+        .contact-form input,
+        .contact-form textarea {
+            width: 100%;
+            padding: 12px 15px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            font-size: 15px;
+            font-family: inherit;
+            box-sizing: border-box;
+        }
+        .contact-form input:focus,
+        .contact-form textarea:focus {
+            outline: none;
+            border-color: #003b71;
+        }
+        .contact-form .form-actions {
+            text-align: center;
+            margin-top: 10px;
+        }
+        .contact-submit {
+            background: #003b71;
+            color: #fff;
+            border: none;
+            padding: 14px 50px;
+            font-size: 16px;
+            font-weight: 600;
+            border-radius: 4px;
+            cursor: pointer;
+            transition: background 0.3s;
+        }
+        .contact-submit:hover {
+            background: #002a52;
+        }
+        @media (max-width: 768px) {
+            .contact-form .form-row {
+                flex-direction: column;
+                gap: 0;
+            }
+            .contact-us-title {
+                font-size: 28px;
+            }
+            .contact-us-section {
+                padding: 50px 0;
+            }
+        }
+    </style>
 </head>
 
 <body class="layout-no-sidebars path-frontpage page-node-type-landing-page">
@@ -247,7 +337,7 @@
 
 
                                         <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item">
-                                            <div class="contact-us-icon icon-container"><a href="/contact-us">contact us</a></div>
+                                            <div class="contact-us-icon icon-container"><a href="https://www.yusen-logistics.com/contact-us">contact us</a></div>
                                         </div>
 
                                     </div>
@@ -1120,7 +1210,7 @@
                                                                   <li class="main-navigation-li">
                                                                       <div>
                                                                           <div class="field field--name-link field--type-link field--label-hidden field__item">
-                                                                              <a href="/contact-us">Contact Us</a>
+                                                                              <a href="#contact-us-section">Contact Us</a>
                                                                           </div>
                                                                       </div>
                                                                   </li>
@@ -1821,7 +1911,7 @@
                                                                        <li class="main-navigation-li">
                                                                            <div>
                                                                                <div class="field field--name-link field--type-link field--label-hidden field__item">
-                                                                                   <a href="/contact-us">Contact Us</a>
+                                                                                   <a href="#contact-us-section">Contact Us</a>
                                                                                </div>
                                                                            </div>
                                                                        </li>
@@ -4318,6 +4408,38 @@
 
         </main>
         </div>
+
+        <section id="contact-us-section" class="contact-us-section">
+            <div class="container">
+                <div class="contact-us-inner">
+                    <h2 class="contact-us-title">Contact Us</h2>
+                    <p class="contact-us-subtitle">Get in touch with our team</p>
+                    <form class="contact-form">
+                        <div class="form-row">
+                            <div class="form-group">
+                                <label for="contact-name">Name *</label>
+                                <input type="text" id="contact-name" name="name" required placeholder="Your Name">
+                            </div>
+                            <div class="form-group">
+                                <label for="contact-email">Email *</label>
+                                <input type="email" id="contact-email" name="email" required placeholder="Your Email">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="contact-subject">Subject</label>
+                            <input type="text" id="contact-subject" name="subject" placeholder="Subject">
+                        </div>
+                        <div class="form-group">
+                            <label for="contact-message">Message *</label>
+                            <textarea id="contact-message" name="message" rows="5" required placeholder="Your Message"></textarea>
+                        </div>
+                        <div class="form-actions">
+                            <button type="submit" class="contact-submit">Send Message</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </section>
 
         <footer id="comFooter" role="footer">
             <div class="footer">
