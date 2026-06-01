@@ -1,0 +1,2036 @@
+﻿<div id="block-mega-menu" class="block block-menu-item-fields block-menu-item-fieldsmain main-navigation">
+
+
+
+                                                        <div class='pc'>
+                                                            <ul class="clearfix main-navigation-ul">
+                                                                <li class="menu-item--expanded main-navigation-li has-below">
+                                                                    <div>
+
+
+                                                                        <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                            <span>Home</span>
+                                                                        </div>
+
+                                                                    </div>
+
+                                                                    <ul class="main-navigation-submenu">
+                                                                        <div class="row">
+                                                                            <div class="main-navigation-submenu-title col-md-4 col-12">
+                                                                                <div>
+                                                                                    <p>Home</p>
+                                                                                </div>
+                                                                            </div>
+                                                                            <div class="main-navigation-submenu-content col-md-8 col-12">
+                                                                                <div>
+                                                                                    <ul class="main-navigation-ul second-menu-box row">
+                                                                                        <li class="menu-item--expanded col-12 second-menu clearfix">
+                                                                                            <div>
+
+
+                                                                                                <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                                    <a href="/services/supply-chain-solutions">Supply Chain Solutions</a>
+                                                                                                </div>
+
+                                                                                            </div>
+
+                                                                                        </li>
+                                                                                        <li class="menu-item--expanded col-12 second-menu clearfix">
+                                                                                            <div>
+
+
+                                                                                                <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                                    <a href="/services/end-to-end-transportation">End-to-End Transportation</a>
+                                                                                                </div>
+
+                                                                                            </div>
+
+                                                                                        </li>
+                                                                                        <li class="menu-item--expanded col-12 second-menu clearfix">
+                                                                                            <div>
+
+
+                                                                                                <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                                    <a href="/services/contract-logistics">Contract Logistics (Warehousing &amp; Distribution)</a>
+                                                                                                </div>
+
+                                                                                            </div>
+
+                                                                                        </li>
+                                                                                    </ul>
+
+                                                                                    <ul class="main-navigation-ul third-menu-box row">
+                                                                                        <li class="col-md-4">
+                                                                                            <div class="thrid_menu">
+                                                                                                <div>
+
+
+                                                                                                    <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                                        <a href="/services/supply-chain-solutions/business-and-financial-management">Business and Financial Management</a>
+                                                                                                    </div>
+
+                                                                                                </div>
+
+                                                                                            </div>
+                                                                                            <div class="thrid_menu">
+                                                                                                <div>
+
+
+                                                                                                    <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                                        <a href="/services/supply-chain-solutions/operations-management">Operations Management</a>
+                                                                                                    </div>
+
+                                                                                                </div>
+
+                                                                                            </div>
+                                                                                            <div class="clearfix"></div>
+                                                                                        </li>
+
+                                                                                        <li class="col-md-4">
+                                                                                            <div class="thrid_menu">
+                                                                                                <div>
+
+
+                                                                                                    <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                                        <a href="/services/end-to-end-transportation/air-freight-forwarding">Air Freight Forwarding</a>
+                                                                                                    </div>
+
+                                                                                                </div>
+
+                                                                                            </div>
+                                                                                            <div class="thrid_menu">
+                                                                                                <div>
+
+
+                                                                                                    <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                                        <a href="/services/end-to-end-transportation/ocean-freight-forwarding">Ocean Freight Forwarding</a>
+                                                                                                    </div>
+
+                                                                                                </div>
+
+                                                                                            </div>
+                                                                                            <div class="thrid_menu">
+                                                                                                <div>
+
+
+                                                                                                    <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                                        <a href="/services/end-to-end-transportation/road-transport">Road Transport</a>
+                                                                                                    </div>
+
+                                                                                                </div>
+
+                                                                                            </div>
+                                                                                            <div class="thrid_menu">
+                                                                                                <div>
+
+
+                                                                                                    <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                                        <a href="/services/end-to-end-transportation/rail-transport">Rail Transport</a>
+                                                                                                    </div>
+
+                                                                                                </div>
+
+                                                                                            </div>
+                                                                                            <div class="thrid_menu">
+                                                                                                <div>
+
+
+                                                                                                    <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                                        <a href="/services/end-to-end-transportation/intermodal-multimodal-transport">Intermodal &amp; Multimodal Transport</a>
+                                                                                                    </div>
+
+                                                                                                </div>
+
+                                                                                            </div>
+                                                                                            <div class="thrid_menu">
+                                                                                                <div>
+
+
+                                                                                                    <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                                        <a href="/services/end-to-end-transportation/project-cargo">Project Cargo</a>
+                                                                                                    </div>
+
+                                                                                                </div>
+
+                                                                                            </div>
+                                                                                            <div class="thrid_menu">
+                                                                                                <div>
+
+
+                                                                                                    <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                                        <a href="/services/end-to-end-transportation/cold-chain-logistics">Cold Chain Logistics</a>
+                                                                                                    </div>
+
+                                                                                                </div>
+
+                                                                                            </div>
+                                                                                            <div class="thrid_menu">
+                                                                                                <div>
+
+
+                                                                                                    <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                                        <a href="/services/end-to-end-transportation/customs-house-brokerage">Customs House Brokerage</a>
+                                                                                                    </div>
+
+                                                                                                </div>
+
+                                                                                            </div>
+                                                                                            <div class="clearfix"></div>
+                                                                                        </li>
+                                                                                        <div class="clearfix"></div>
+                                                                                    </ul>
+                                                                                    <div>
+                                                                                    </div>
+                                                                                    <div class="clearfix"></div>
+                                                                                </div>
+                                                                    </ul>
+                                                                </li>
+                                                                <li class="menu-item--expanded main-navigation-li has-below">
+                                                                    <div>
+                                                                        <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                            <span>Load Tracking</span>
+                                                                        </div>
+                                                                    </div>
+                                                                    <ul class="main-navigation-submenu">
+                                                                        <div class="row">
+                                                                            <div class="main-navigation-submenu-title col-md-4 col-12">
+                                                                                <div>
+                                                                                    <p>Load Tracking</p>
+                                                                                </div>
+                                                                            </div>
+                                                                             <div class="main-navigation-submenu-content col-md-8 col-12">
+                                                                                 <div>
+                                                                                     <ul class="main-navigation-ul second-menu-box row">
+                                                                                         <li class="col-12 second-menu clearfix">
+                                                                                             <div>
+                                                                                                 <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                                     <a href="/load-tracking.html">Load Tracking</a>
+                                                                                                 </div>
+                                                                                             </div>
+                                                                                         </li>
+                                                                                     </ul>
+                                                                                     <div>
+                                                                                     </div>
+                                                                                     <div class="clearfix"></div>
+                                                                                 </div>
+                                                                             </div>
+                                                                        </div>
+                                                                    </ul>
+                                                                </li>
+                                                                <li class="menu-item--expanded main-navigation-li has-below">
+                                                                    <div>
+
+
+                                                                        <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                            <span>Industries</span>
+                                                                        </div>
+
+                                                                    </div>
+
+                                                                    <ul class="main-navigation-submenu">
+                                                                        <div class="row">
+                                                                            <div class="main-navigation-submenu-title col-md-4 col-12">
+                                                                                <div>
+                                                                                    <p>Industries</p>
+                                                                                </div>
+                                                                            </div>
+                                                                            <div class="main-navigation-submenu-content col-md-8 col-12">
+                                                                                <div>
+                                                                                    <ul class="main-navigation-ul second-menu-box row">
+                                                                                        <li class="col-12 second-menu clearfix">
+                                                                                            <div>
+
+
+                                                                                                <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                                    <a href="/industries/aerospace">Aerospace</a>
+                                                                                                </div>
+
+                                                                                            </div>
+
+                                                                                        </li>
+                                                                                        <li class="col-12 second-menu clearfix">
+                                                                                            <div>
+
+
+                                                                                                <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                                    <a href="/industries/food">Food</a>
+                                                                                                </div>
+
+                                                                                            </div>
+
+                                                                                        </li>
+                                                                                        <li class="col-12 second-menu clearfix">
+                                                                                            <div>
+
+
+                                                                                                <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                                    <a href="/industries/retail">Retail</a>
+                                                                                                </div>
+
+                                                                                            </div>
+
+                                                                                        </li>
+                                                                                    </ul>
+
+                                                                                    <ul class="main-navigation-ul second-menu-box row">
+                                                                                        <li class="col-12 second-menu clearfix">
+                                                                                            <div>
+
+
+                                                                                                <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                                    <a href="/industries/automotive">Automotive</a>
+                                                                                                </div>
+
+                                                                                            </div>
+
+                                                                                        </li>
+                                                                                        <li class="col-12 second-menu clearfix">
+                                                                                            <div>
+
+
+                                                                                                <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                                    <a href="/industries/healthcare">Healthcare</a>
+                                                                                                </div>
+
+                                                                                            </div>
+
+                                                                                        </li>
+                                                                                        <li class="col-12 second-menu clearfix">
+                                                                                            <div>
+
+
+                                                                                                <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                                    <a href="/industries/technology">Technology</a>
+                                                                                                </div>
+
+                                                                                            </div>
+
+                                                                                        </li>
+                                                                                    </ul>
+
+
+                                                                                    <div>
+                                                                                    </div>
+                                                                                    <div class="clearfix"></div>
+                                                                                </div>
+                                                                    </ul>
+                                                                </li>
+                                                                <li class="menu-item--expanded main-navigation-li has-below">
+                                                                    <div>
+
+
+                                                                        <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                            <span>About Us</span>
+                                                                        </div>
+
+                                                                    </div>
+
+                                                                    <ul class="main-navigation-submenu">
+                                                                        <div class="row">
+                                                                            <div class="main-navigation-submenu-title col-md-4 col-12">
+                                                                                <div>
+                                                                                    <p>About Us</p>
+                                                                                </div>
+                                                                            </div>
+                                                                            <div class="main-navigation-submenu-content col-md-8 col-12">
+                                                                                <div>
+                                                                                    <ul class="main-navigation-ul second-menu-box row">
+                                                                                        <li class="menu-item--expanded col-12 second-menu clearfix">
+                                                                                            <div>
+
+
+                                                                                                <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                                    <a href="/about-us/about-us-overview">Overview</a>
+                                                                                                </div>
+
+                                                                                            </div>
+
+                                                                                        </li>
+                                                                                        <li class="menu-item--expanded col-12 second-menu clearfix">
+                                                                                            <div>
+
+
+                                                                                                <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                                    <a href="/about-us/sustainability">Sustainability</a>
+                                                                                                </div>
+
+                                                                                            </div>
+
+                                                                                        </li>
+                                                                                        <li class="menu-item--expanded col-12 second-menu clearfix">
+                                                                                            <div>
+
+
+                                                                                                <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                                    <span>Company information in Japanese</span>
+                                                                                                </div>
+
+                                                                                            </div>
+
+                                                                                        </li>
+                                                                                    </ul>
+
+                                                                                    <ul class="main-navigation-ul third-menu-box row">
+                                                                                        <li class="col-md-4">
+                                                                                            <div class="thrid_menu">
+                                                                                                <div>
+
+
+                                                                                                    <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                                        <a href="/about-us/our-vision-mission-values">Our Vision, Mission &amp; Values</a>
+                                                                                                    </div>
+
+                                                                                                </div>
+
+                                                                                            </div>
+                                                                                            <div class="thrid_menu">
+                                                                                                <div>
+
+
+                                                                                                    <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                                        <a href="/about-us/global-policy">Global Policy</a>
+                                                                                                    </div>
+
+                                                                                                </div>
+
+                                                                                            </div>
+                                                                                            <div class="thrid_menu">
+                                                                                                <div>
+
+
+                                                                                                    <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                                        <a href="/about-us/long-term-vision">Long-Term Vision</a>
+                                                                                                    </div>
+
+                                                                                                </div>
+
+                                                                                            </div>
+                                                                                            <div class="thrid_menu">
+                                                                                                <div>
+
+
+                                                                                                    <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                                        <a href="/about-us/company-data">Company Data</a>
+                                                                                                    </div>
+
+                                                                                                </div>
+
+                                                                                            </div>
+                                                                                            <div class="thrid_menu">
+                                                                                                <div>
+
+
+                                                                                                    <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                                        <a href="/about-us/about-yusen-logistics">About Yusen Logistics</a>
+                                                                                                    </div>
+
+                                                                                                </div>
+
+                                                                                            </div>
+                                                                                            <div class="thrid_menu">
+                                                                                                <div>
+
+
+                                                                                                    <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                                        <a href="/about-us/management-team">Management Team</a>
+                                                                                                    </div>
+
+                                                                                                </div>
+
+                                                                                            </div>
+                                                                                            <div class="thrid_menu">
+                                                                                                <div>
+
+
+                                                                                                    <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                                        <a href="/about-us/our-history">Our History</a>
+                                                                                                    </div>
+
+                                                                                                </div>
+
+                                                                                            </div>
+                                                                                            <div class="thrid_menu">
+                                                                                                <div>
+
+
+                                                                                                    <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                                        <a href="/about-us/our-quality">Our Quality</a>
+                                                                                                    </div>
+
+                                                                                                </div>
+
+                                                                                            </div>
+                                                                                            <div class="thrid_menu">
+                                                                                                <div>
+
+
+                                                                                                    <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                                        <a href="/about-us/careers">Careers</a>
+                                                                                                    </div>
+
+                                                                                                </div>
+
+                                                                                            </div>
+                                                                                            <div class="thrid_menu">
+                                                                                                <div>
+
+
+                                                                                                    <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                                        <a href="/about-us/find-an-office">Find an Office</a>
+                                                                                                    </div>
+
+                                                                                                </div>
+
+                                                                                            </div>
+                                                                                            <div class="thrid_menu">
+                                                                                                <div>
+
+
+                                                                                                    <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                                        <a href="/about-us/video-library">Video Library</a>
+                                                                                                    </div>
+
+                                                                                                </div>
+
+                                                                                            </div>
+                                                                                            <div class="clearfix"></div>
+                                                                                        </li>
+
+                                                                                        <li class="col-md-4">
+                                                                                            <div class="thrid_menu">
+                                                                                                <div>
+
+
+                                                                                                    <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                                        <a href="/about-us/sustainability/environment">Environment</a>
+                                                                                                    </div>
+
+                                                                                                </div>
+
+                                                                                            </div>
+                                                                                            <div class="thrid_menu">
+                                                                                                <div>
+
+
+                                                                                                    <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                                        <a href="/about-us/sustainability/social">Social</a>
+                                                                                                    </div>
+
+                                                                                                </div>
+
+                                                                                            </div>
+                                                                                            <div class="thrid_menu">
+                                                                                                <div>
+
+
+                                                                                                    <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                                        <a href="/about-us/sustainability/governance">Governance</a>
+                                                                                                    </div>
+
+                                                                                                </div>
+
+                                                                                            </div>
+                                                                                            <div class="clearfix"></div>
+                                                                                        </li>
+
+                                                                                        <li class="col-md-4">
+                                                                                            <div class="thrid_menu">
+                                                                                                <div>
+
+
+                                                                                                    <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                                        <a href="/about-us/company-data-jp">会社概要 (Company data in JA)</a>
+                                                                                                    </div>
+
+                                                                                                </div>
+
+                                                                                            </div>
+                                                                                            <div class="thrid_menu">
+                                                                                                <div>
+
+
+                                                                                                    <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                                        <a href="/about-us/management-team-jp">役員体制 (Management team in JA)</a>
+                                                                                                    </div>
+
+                                                                                                </div>
+
+                                                                                            </div>
+                                                                                            <div class="thrid_menu">
+                                                                                                <div>
+
+
+                                                                                                    <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                                        <a href="/about-us/electronic-public-notice">電子公告 (Electronic public notice in JA)</a>
+                                                                                                    </div>
+
+                                                                                                </div>
+
+                                                                                            </div>
+                                                                                            <div class="clearfix"></div>
+                                                                                        </li>
+
+                                                                                        <div class="clearfix"></div>
+                                                                                    </ul>
+
+                                                                                    <div>
+                                                                                    </div>
+                                                                                    <div class="clearfix"></div>
+                                                                                </div>
+                                                                    </ul>
+                                                                </li>
+
+                                                                  <li class="menu-item--expanded main-navigation-li has-below">
+                                                                      <div>
+                                                                          <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                              <span>Contact Us</span>
+                                                                          </div>
+                                                                      </div>
+                                                                      <ul class="main-navigation-submenu">
+                                                                          <div class="row">
+                                                                              <div class="main-navigation-submenu-title col-md-4 col-12">
+                                                                                  <div>
+                                                                                      <p>Contact Us</p>
+                                                                                  </div>
+                                                                              </div>
+                                                                              <div class="main-navigation-submenu-content col-md-8 col-12">
+                                                                                  <div>
+                                                                                      <ul class="main-navigation-ul second-menu-box row">
+                                                                                          <li class="col-12 second-menu clearfix">
+                                                                                              <div>
+                                                                                                  <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                                      <a href="/contact-us.html">Contact Us</a>
+                                                                                                  </div>
+                                                                                              </div>
+                                                                                          </li>
+                                                                                      </ul>
+                                                                                      <div>
+                                                                                      </div>
+                                                                                      <div class="clearfix"></div>
+                                                                                  </div>
+                                                                              </div>
+                                                                          </div>
+                                                                      </ul>
+                                                                  </li>
+                                                            </ul>
+
+                                                            </div>
+                                                            <div class='mobile'>
+                                                                <ul class="clearfix main-navigation-ul">
+                                                                    <li class="menu-item--expanded main-navigation-li has-below main-navigation-li">
+                                                                        <div>
+
+
+                                                                            <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                <span>Home</span>
+                                                                            </div>
+
+                                                                        </div>
+
+                                                                        <ul class="main-navigation-submenu">
+                                                                            <li class="menu-item--expanded col-12 second-menu clearfix main-navigation-li">
+                                                                                <div>
+
+
+                                                                                    <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                        <a href="/services/supply-chain-solutions">Supply Chain Solutions</a>
+                                                                                    </div>
+
+                                                                                </div>
+
+                                                                                <ul class="main-navigation-submenu">
+                                                                                    <li class="main-navigation-li">
+                                                                                        <div>
+
+
+                                                                                            <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                                <a href="/services/supply-chain-solutions/business-and-financial-management">Business and Financial Management</a>
+                                                                                            </div>
+
+                                                                                        </div>
+
+                                                                                    </li>
+                                                                                    <li class="main-navigation-li">
+                                                                                        <div>
+
+
+                                                                                            <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                                <a href="/services/supply-chain-solutions/operations-management">Operations Management</a>
+                                                                                            </div>
+
+                                                                                        </div>
+
+                                                                                    </li>
+                                                                                </ul>
+
+                                                                            </li>
+                                                                            <li class="menu-item--expanded col-12 second-menu clearfix main-navigation-li">
+                                                                                <div>
+
+
+                                                                                    <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                        <a href="/services/end-to-end-transportation">End-to-End Transportation</a>
+                                                                                    </div>
+
+                                                                                </div>
+
+                                                                                <ul class="main-navigation-submenu">
+                                                                                    <li class="main-navigation-li">
+                                                                                        <div>
+
+
+                                                                                            <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                                <a href="/services/end-to-end-transportation/air-freight-forwarding">Air Freight Forwarding</a>
+                                                                                            </div>
+
+                                                                                        </div>
+
+                                                                                    </li>
+                                                                                    <li class="main-navigation-li">
+                                                                                        <div>
+
+
+                                                                                            <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                                <a href="/services/end-to-end-transportation/ocean-freight-forwarding">Ocean Freight Forwarding</a>
+                                                                                            </div>
+
+                                                                                        </div>
+
+                                                                                    </li>
+                                                                                    <li class="main-navigation-li">
+                                                                                        <div>
+
+
+                                                                                            <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                                <a href="/services/end-to-end-transportation/road-transport">Road Transport</a>
+                                                                                            </div>
+
+                                                                                        </div>
+
+                                                                                    </li>
+                                                                                    <li class="menu-item--collapsed main-navigation-li">
+                                                                                        <div>
+
+
+                                                                                            <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                                <a href="/services/end-to-end-transportation/rail-transport">Rail Transport</a>
+                                                                                            </div>
+
+                                                                                        </div>
+
+                                                                                    </li>
+                                                                                    <li class="main-navigation-li">
+                                                                                        <div>
+
+
+                                                                                            <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                                <a href="/services/end-to-end-transportation/intermodal-multimodal-transport">Intermodal &amp; Multimodal Transport</a>
+                                                                                            </div>
+
+                                                                                        </div>
+
+                                                                                    </li>
+                                                                                    <li class="main-navigation-li">
+                                                                                        <div>
+
+
+                                                                                            <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                                <a href="/services/end-to-end-transportation/project-cargo">Project Cargo</a>
+                                                                                            </div>
+
+                                                                                        </div>
+
+                                                                                    </li>
+                                                                                    <li class="main-navigation-li">
+                                                                                        <div>
+
+
+                                                                                            <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                                <a href="/services/end-to-end-transportation/cold-chain-logistics">Cold Chain Logistics</a>
+                                                                                            </div>
+
+                                                                                        </div>
+
+                                                                                    </li>
+                                                                                    <li class="main-navigation-li">
+                                                                                        <div>
+
+
+                                                                                            <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                                <a href="/services/end-to-end-transportation/customs-house-brokerage">Customs House Brokerage</a>
+                                                                                            </div>
+
+                                                                                        </div>
+
+                                                                                    </li>
+                                                                                </ul>
+
+                                                                            </li>
+                                                                            <li class="menu-item--expanded col-12 second-menu clearfix main-navigation-li">
+                                                                                <div>
+
+
+                                                                                    <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                        <a href="/services/contract-logistics">Contract Logistics (Warehousing &amp; Distribution)</a>
+                                                                                    </div>
+
+                                                                                </div>
+
+                                                                                <ul class="main-navigation-submenu">
+                                                                                    <li class="main-navigation-li">
+                                                                                        <div>
+
+
+                                                                                            <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                                <a href="/services/contract-logistics/warehousing-and-value-added-services">Warehousing &amp; Value-Added Services</a>
+                                                                                            </div>
+
+                                                                                        </div>
+
+                                                                                    </li>
+                                                                                    <li class="main-navigation-li">
+                                                                                        <div>
+
+
+                                                                                            <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                                <a href="/services/contract-logistics/pick-up-and-distribution">Pick up &amp; Distribution</a>
+                                                                                            </div>
+
+                                                                                        </div>
+
+                                                                                    </li>
+                                                                                    <li class="main-navigation-li">
+                                                                                        <div>
+
+
+                                                                                            <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                                <a href="/services/contract-logistics/transload-and-cross-dock-services">Transload &amp; Cross-Docking</a>
+                                                                                            </div>
+
+                                                                                        </div>
+
+                                                                                    </li>
+                                                                                    <li class="main-navigation-li">
+                                                                                        <div>
+
+
+                                                                                            <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                                <a href="/services/contract-logistics/in-house-logistics">In-House Logistics</a>
+                                                                                            </div>
+
+                                                                                        </div>
+
+                                                                                    </li>
+                                                                                    <li class="main-navigation-li">
+                                                                                        <div>
+
+
+                                                                                            <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                                <a href="/services/contract-logistics/e-fulfillment-order-fulfillment">E-fulfillment / Order Fulfillment</a>
+                                                                                            </div>
+
+                                                                                        </div>
+
+                                                                                    </li>
+                                                                                    <li class="main-navigation-li">
+                                                                                        <div>
+
+
+                                                                                            <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                                <a href="/services/contract-logistics/reverse-logistics">Reverse Logistics</a>
+                                                                                            </div>
+
+                                                                                        </div>
+
+                                                                                    </li>
+                                                                                </ul>
+
+                                                                            </li>
+                                                                        </ul>
+
+                                                                    </li>
+                                                                    <li class="menu-item--expanded main-navigation-li has-below main-navigation-li">
+                                                                        <div>
+
+
+
+                                                                            <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                <span>Load Tracking</span>
+                                                                            </div>
+
+                                                                        </div>
+
+                                                                        <ul class="main-navigation-submenu">
+                                                                            <li class="main-navigation-li">
+                                                                                <div>
+                                                                                    <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                        <a href="/load-tracking.html">Load Tracking</a>
+                                                                                    </div>
+
+                                                                                </div>
+                                                                            </li>
+                                                                        </ul>
+                                                                    </li>
+                                                                    <li class="menu-item--expanded main-navigation-li has-below main-navigation-li">
+                                                                        <div>
+
+
+                                                                            <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                <span>Industries</span>
+                                                                            </div>
+
+                                                                        </div>
+
+                                                                        <ul class="main-navigation-submenu">
+                                                                            <li class="col-12 second-menu clearfix main-navigation-li">
+                                                                                <div>
+
+
+                                                                                    <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                        <a href="/industries/aerospace">Aerospace</a>
+                                                                                    </div>
+
+                                                                                </div>
+
+                                                                            </li>
+                                                                            <li class="col-12 second-menu clearfix main-navigation-li">
+                                                                                <div>
+
+
+                                                                                    <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                        <a href="/industries/food">Food</a>
+                                                                                    </div>
+
+                                                                                </div>
+
+                                                                            </li>
+                                                                            <li class="col-12 second-menu clearfix main-navigation-li">
+                                                                                <div>
+
+
+                                                                                    <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                        <a href="/industries/retail">Retail</a>
+                                                                                    </div>
+
+                                                                                </div>
+
+                                                                            </li>
+                                                                            <li class="col-12 second-menu clearfix main-navigation-li">
+                                                                                <div>
+
+
+                                                                                    <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                        <a href="/industries/automotive">Automotive</a>
+                                                                                    </div>
+
+                                                                                </div>
+
+                                                                            </li>
+                                                                            <li class="col-12 second-menu clearfix main-navigation-li">
+                                                                                <div>
+
+
+                                                                                    <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                        <a href="/industries/healthcare">Healthcare</a>
+                                                                                    </div>
+
+                                                                                </div>
+
+                                                                            </li>
+                                                                            <li class="col-12 second-menu clearfix main-navigation-li">
+                                                                                <div>
+
+
+                                                                                    <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                        <a href="/industries/technology">Technology</a>
+                                                                                    </div>
+
+                                                                                </div>
+
+                                                                            </li>
+                                                                        </ul>
+
+                                                                    </li>
+                                                                    <li class="menu-item--expanded main-navigation-li has-below main-navigation-li">
+                                                                        <div>
+
+
+                                                                            <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                <span>About Us</span>
+                                                                            </div>
+
+                                                                        </div>
+
+                                                                        <ul class="main-navigation-submenu">
+                                                                            <li class="menu-item--expanded col-12 second-menu clearfix main-navigation-li">
+                                                                                <div>
+
+
+                                                                                    <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                        <a href="/about-us/about-us-overview">Overview</a>
+                                                                                    </div>
+
+                                                                                </div>
+
+                                                                                <ul class="main-navigation-submenu">
+                                                                                    <li class="main-navigation-li">
+                                                                                        <div>
+
+
+                                                                                            <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                                <a href="/about-us/our-vision-mission-values">Our Vision, Mission &amp; Values</a>
+                                                                                            </div>
+
+                                                                                        </div>
+
+                                                                                    </li>
+                                                                                    <li class="main-navigation-li">
+                                                                                        <div>
+
+
+                                                                                            <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                                <a href="/about-us/global-policy">Global Policy</a>
+                                                                                            </div>
+
+                                                                                        </div>
+
+                                                                                    </li>
+                                                                                    <li class="main-navigation-li">
+                                                                                        <div>
+
+
+                                                                                            <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                                <a href="/about-us/long-term-vision">Long-Term Vision</a>
+                                                                                            </div>
+
+                                                                                        </div>
+
+                                                                                    </li>
+                                                                                    <li class="main-navigation-li">
+                                                                                        <div>
+
+
+                                                                                            <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                                <a href="/about-us/company-data">Company Data</a>
+                                                                                            </div>
+
+                                                                                        </div>
+
+                                                                                    </li>
+                                                                                    <li class="main-navigation-li">
+                                                                                        <div>
+
+
+                                                                                            <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                                <a href="/about-us/about-yusen-logistics">About Yusen Logistics</a>
+                                                                                            </div>
+
+                                                                                        </div>
+
+                                                                                    </li>
+                                                                                    <li class="main-navigation-li">
+                                                                                        <div>
+
+
+                                                                                            <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                                <a href="/about-us/management-team">Management Team</a>
+                                                                                            </div>
+
+                                                                                        </div>
+
+                                                                                    </li>
+                                                                                    <li class="main-navigation-li">
+                                                                                        <div>
+
+
+                                                                                            <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                                <a href="/about-us/our-history">Our History</a>
+                                                                                            </div>
+
+                                                                                        </div>
+
+                                                                                    </li>
+                                                                                    <li class="main-navigation-li">
+                                                                                        <div>
+
+
+                                                                                            <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                                <a href="/about-us/our-quality">Our Quality</a>
+                                                                                            </div>
+
+                                                                                        </div>
+
+                                                                                    </li>
+                                                                                    <li class="main-navigation-li">
+                                                                                        <div>
+
+
+                                                                                            <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                                <a href="/about-us/careers">Careers</a>
+                                                                                            </div>
+
+                                                                                        </div>
+
+                                                                                    </li>
+                                                                                    <li class="main-navigation-li">
+                                                                                        <div>
+
+
+                                                                                            <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                                <a href="/about-us/find-an-office">Find an Office</a>
+                                                                                            </div>
+
+                                                                                        </div>
+
+                                                                                    </li>
+                                                                                    <li class="main-navigation-li">
+                                                                                        <div>
+
+
+                                                                                            <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                                <a href="/about-us/video-library">Video Library</a>
+                                                                                            </div>
+
+                                                                                        </div>
+
+                                                                                    </li>
+                                                                                </ul>
+
+                                                                            </li>
+                                                                            <li class="menu-item--expanded col-12 second-menu clearfix main-navigation-li">
+                                                                                <div>
+
+
+                                                                                    <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                        <a href="/about-us/sustainability">Sustainability</a>
+                                                                                    </div>
+
+                                                                                </div>
+
+                                                                                <ul class="main-navigation-submenu">
+                                                                                    <li class="main-navigation-li">
+                                                                                        <div>
+
+
+                                                                                            <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                                <a href="/about-us/sustainability/environment">Environment</a>
+                                                                                            </div>
+
+                                                                                        </div>
+
+                                                                                    </li>
+                                                                                    <li class="main-navigation-li">
+                                                                                        <div>
+
+
+                                                                                            <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                                <a href="/about-us/sustainability/social">Social</a>
+                                                                                            </div>
+
+                                                                                        </div>
+
+                                                                                    </li>
+                                                                                    <li class="main-navigation-li">
+                                                                                        <div>
+
+
+                                                                                            <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                                <a href="/about-us/sustainability/governance">Governance</a>
+                                                                                            </div>
+
+                                                                                        </div>
+
+                                                                                    </li>
+                                                                                </ul>
+
+                                                                            </li>
+                                                                            <li class="menu-item--expanded col-12 second-menu clearfix main-navigation-li">
+                                                                                <div>
+
+
+                                                                                    <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                        <span>Company information in Japanese</span>
+                                                                                    </div>
+
+                                                                                </div>
+
+                                                                                <ul class="main-navigation-submenu">
+                                                                                    <li class="main-navigation-li">
+                                                                                        <div>
+
+
+                                                                                            <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                                <a href="/about-us/company-data-jp">会社概要 (Company data in JA)</a>
+                                                                                            </div>
+
+                                                                                        </div>
+
+                                                                                    </li>
+                                                                                    <li class="main-navigation-li">
+                                                                                        <div>
+
+
+                                                                                            <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                                <a href="/about-us/management-team-jp">役員体制 (Management team in JA)</a>
+                                                                                            </div>
+
+                                                                                        </div>
+
+                                                                                    </li>
+                                                                                    <li class="main-navigation-li">
+                                                                                        <div>
+
+
+                                                                                            <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                                <a href="/about-us/electronic-public-notice">電子公告 (Electronic public notice in JA)</a>
+                                                                                            </div>
+
+                                                                                        </div>
+
+                                                                                    </li>
+                                                                                </ul>
+
+                                                                            </li>
+                                                                        </ul>
+
+                                                                    </li>
+                                                                    
+
+                                                                      <li class="menu-item--expanded main-navigation-li has-below main-navigation-li">
+                                                                          <div>
+
+
+
+
+                                                                              <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                  <span>Contact Us</span>
+                                                                              </div>
+
+                                                                          </div>
+
+                                                                          <ul class="main-navigation-submenu">
+                                                                              <li class="main-navigation-li">
+                                                                                  <div>
+
+
+
+
+                                                                                      <div class="field field--name-link field--type-link field--label-hidden field__item">
+                                                                                          <a href="/contact-us.html">Contact Us</a>
+                                                                                      </div>
+
+                                                                                  </div>
+                                                                              </li>
+                                                                          </ul>
+                                                                      </li>
+                                                                </ul>
+
+                                                            </div>
+
+                                                            </div>
+
+                                                            </div>
+
+                                                            </div>
+                                                            </div>
+        </header>
+
+        <div class="page-container">
+            <div class="region region-highlighted">
+                <div data-drupal-messages-fallback class="hidden"></div>
+
+            </div>
+
+
+
+            <main role="main">
+                <a id="main-content" tabindex="-1"></a>
+                <div class="region region-content">
+                    <div id="block-yusen-content" class="block block-system block-system-main-block">
+
+
+
+                        <article about="/node/306" class="node node--type-landing-page node--promoted node--view-mode-full clearfix">
+                            <div class="node__content clearfix">
+                                <div class="layout layout--onecol">
+                                    <div class="layout__region layout__region--content">
+                                        <div class="block block-layout-builder block-inline-blockcomponent">
+
+
+
+                                            <div class="field field--name-field-paragraph field--type-entity-reference-revisions field--label-hidden field__items">
+                                                <div class="field__item">
+
+
+                                                    <div class="paragraph paragraph--type--top-key-vision paragraph--view-mode--default top-kv" data-id="top-key-vision-31">
+                                                        <div class="top-kv-media">
+
+
+                                                            <div class="field field--name-field-video field--type-entity-reference field--label-hidden field__item">
+                                                                <article class="media media--type-video media--view-mode-default media-video">
+
+
+
+                                                                    <div class="field field--name-field-media-video-file field--type-file field--label-hidden">
+
+                                                                        <div class="field field--name-field-media-video-file field--type-file field--label-hidden field__item">
+                                                                            <video src="/sites/default/files/2021-12/Yusen%20Logistics%20Video%20211222.mp4" type="video/mp4" class="mpeg-video" preload="auto" autoplay muted playsinline loop src="/sites/default/files/2021-12/Yusen%20Logistics%20Video%20211222.mp4"></video>
+                                                                        </div>
+                                                                    </div>
+
+                                                                </article>
+                                                            </div>
+
+                                                        </div>
+                                                        <div class="top-kv-media-mobile">
+                                                            <div class="img-pc"></div>
+                                                            <div class="video-mobile">
+                                                                <div class="field field--name-field-mobile-video field--type-entity-reference field--label-hidden field__item">
+                                                                    <article class="media media--type-video media--view-mode-default media-video">
+
+
+
+                                                                        <div class="field field--name-field-media-video-file field--type-file field--label-hidden">
+
+                                                                            <div class="field field--name-field-media-video-file field--type-file field--label-hidden field__item">
+                                                                                <video src="/sites/default/files/2022-02/Yusen%20Logistics%20Video%20211222%20SP.mp4" type="video/mp4" class="mpeg-video" preload="auto" autoplay muted playsinline loop src="/sites/default/files/2022-02/Yusen%20Logistics%20Video%20211222%20SP.mp4"></video>
+                                                                            </div>
+                                                                        </div>
+
+                                                                    </article>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+
+
+
+                                                                                        </article>
+
+                                                                                    </div>
+
+                                                                                </div>
+
+                                                                                <div class="panes-card-close"></div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+
+
+                                                                                                                </div>
+                                                                                                            </div>
+
+                                                                                                        </div>
+                                                                                                    </div>
+
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                    </div>
+
+
+
+
+
+
+                                    </div>
+                                    <div class="block block-layout-builder block-inline-blockcomponent">
+
+
+
+                                        <div class="field field--name-field-paragraph field--type-entity-reference-revisions field--label-hidden field__items">
+                                            <div class="field__item">
+
+
+                                                <div class="paragraph paragraph--type--service-introduction paragraph--view-mode--default service-intro-wrapper component-with-title-line">
+                                                    <div class="service-intro">
+                                                        <div class="service-intro-text-wrapper">
+                                                            <div class="com-title">
+                                                                <h1 style="text-align: center; margin: 0 auto;">
+                                                                    COMMITTED TO FINDING <br>A BETTER WAY
+                                                                </h1>
+                                                                <div class="com-title-desc">
+
+                                                                    <div class="clearfix text-formatted field field--name-field-rich-text field--type-text-with-summary field--label-hidden field__item">
+                                                                        <p>We’re constantly developing more streamlined and sustainable ways to provide efficient logistics solutions to add value to your business. How can we help you achieve your goals?</p>
+                                                                    </div>
+
+                                                                </div>
+                                                            </div>
+                                                        </div>
+
+
+                                                        <div class="field field--name-field-icon field--type-entity-reference-revisions field--label-hidden field__items">
+                                                            <div class="field__item">
+
+                                                                <div class="paragraph paragraph--type--icon paragraph--view-mode--default icon-set-item">
+                                                                    <div class="icon-set-item-icons">
+                                                                        <div class="icon-set-item-icon">
+                                                                            <article class="media media--type-image media--view-mode-default">
+
+
+                                                                                <div class="field field--name-field-media-image field--type-image field--label-hidden field__item"> <img loading="lazy" src="/sites/default/files/2022-03/Frame%20166%20%281%29.png" width="202" height="201" alt="Supply Chain Solutions" typeof="foaf:Image" />
+
+                                                                                </div>
+
+                                                                            </article>
+
+                                                                        </div>
+                                                                        <div class="icon-set-item-icon-hover">
+                                                                            <article class="media media--type-image media--view-mode-default">
+
+
+                                                                                <div class="field field--name-field-media-image field--type-image field--label-hidden field__item"> <img loading="lazy" src="/sites/default/files/2022-03/Frame%20166%20%281%29.png" width="202" height="201" alt="Frame 166 (1).png" typeof="foaf:Image" />
+
+                                                                                </div>
+
+                                                                            </article>
+
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="icon-set-item-title">
+
+                                                                        <div class="clearfix text-formatted field field--name-field-html-title field--type-text field--label-hidden field__item">
+                                                                            <p>Supply Chain Solutions</p>
+                                                                        </div>
+
+                                                                    </div>
+                                                                    <div class="icon-set-item-desc">
+
+                                                                        <div class="clearfix text-formatted field field--name-field-rich-text field--type-text-with-summary field--label-hidden field__item">
+                                                                            <p>Scalable solutions for your supply chain management</p>
+                                                                        </div>
+
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="field__item">
+
+                                                                <div class="paragraph paragraph--type--icon paragraph--view-mode--default icon-set-item">
+                                                                    <div class="icon-set-item-icons">
+                                                                        <div class="icon-set-item-icon">
+                                                                            <article class="media media--type-image media--view-mode-default">
+
+
+                                                                                <div class="field field--name-field-media-image field--type-image field--label-hidden field__item"> <img loading="lazy" src="/sites/default/files/2021-10/33.png" width="201" height="201" alt="End-to-End Transportation Services" typeof="foaf:Image" />
+
+                                                                                </div>
+
+                                                                            </article>
+
+                                                                        </div>
+                                                                        <div class="icon-set-item-icon-hover">
+                                                                            <article class="media media--type-image media--view-mode-default">
+
+
+                                                                                <div class="field field--name-field-media-image field--type-image field--label-hidden field__item"> <img loading="lazy" src="/sites/default/files/2021-10/33.png" width="201" height="201" alt="End-to-End Transportation Services" typeof="foaf:Image" />
+
+                                                                                </div>
+
+                                                                            </article>
+
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="icon-set-item-title">
+
+                                                                        <div class="clearfix text-formatted field field--name-field-html-title field--type-text field--label-hidden field__item">
+                                                                            <p>End-to-End Transportation</p>
+                                                                        </div>
+
+                                                                    </div>
+                                                                    <div class="icon-set-item-desc">
+
+                                                                        <div class="clearfix text-formatted field field--name-field-rich-text field--type-text-with-summary field--label-hidden field__item">
+                                                                            <p>Effective, efficient shipment options</p>
+                                                                        </div>
+
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="field__item">
+
+                                                                <div class="paragraph paragraph--type--icon paragraph--view-mode--default icon-set-item">
+                                                                    <div class="icon-set-item-icons">
+                                                                        <div class="icon-set-item-icon">
+                                                                            <article class="media media--type-image media--view-mode-default">
+
+
+                                                                                <div class="field field--name-field-media-image field--type-image field--label-hidden field__item"> <img loading="lazy" src="/sites/default/files/2021-10/22.png" width="201" height="202" alt="Contract Logistics (Warehousing &amp; Distribution)" typeof="foaf:Image" />
+
+                                                                                </div>
+
+                                                                            </article>
+
+                                                                        </div>
+                                                                        <div class="icon-set-item-icon-hover">
+                                                                            <article class="media media--type-image media--view-mode-default">
+
+
+                                                                                <div class="field field--name-field-media-image field--type-image field--label-hidden field__item"> <img loading="lazy" src="/sites/default/files/2021-10/22.png" width="201" height="202" alt="Contract Logistics (Warehousing &amp; Distribution)" typeof="foaf:Image" />
+
+                                                                                </div>
+
+                                                                            </article>
+
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="icon-set-item-title">
+
+                                                                        <div class="clearfix text-formatted field field--name-field-html-title field--type-text field--label-hidden field__item">
+                                                                            <p>Contract Logistics (Warehousing &amp; Distribution)</p>
+                                                                        </div>
+
+                                                                    </div>
+                                                                    <div class="icon-set-item-desc">
+
+                                                                        <div class="clearfix text-formatted field field--name-field-rich-text field--type-text-with-summary field--label-hidden field__item">
+                                                                            <p>Holistic logistic management for enhanced efficiency</p>
+                                                                        </div>
+
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="field__item">
+
+                                                                <div class="paragraph paragraph--type--icon paragraph--view-mode--default icon-set-item">
+                                                                    <div class="icon-set-item-icons">
+                                                                        <div class="icon-set-item-icon">
+                                                                            <article class="media media--type-image media--view-mode-default">
+
+
+                                                                                <div class="field field--name-field-media-image field--type-image field--label-hidden field__item"> <img loading="lazy" src="/sites/default/files/2021-10/44.png" width="201" height="202" alt="Digital Solutions" typeof="foaf:Image" />
+
+                                                                                </div>
+
+                                                                            </article>
+
+                                                                        </div>
+                                                                        <div class="icon-set-item-icon-hover">
+                                                                            <article class="media media--type-image media--view-mode-default">
+
+
+                                                                                <div class="field field--name-field-media-image field--type-image field--label-hidden field__item"> <img loading="lazy" src="/sites/default/files/2021-10/44.png" width="201" height="202" alt="Digital Solutions" typeof="foaf:Image" />
+
+                                                                                </div>
+
+                                                                            </article>
+
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="icon-set-item-title">
+
+                                                                        <div class="clearfix text-formatted field field--name-field-html-title field--type-text field--label-hidden field__item">
+                                                                            <p>Digital Solutions</p>
+                                                                        </div>
+
+                                                                    </div>
+                                                                    <div class="icon-set-item-desc">
+
+                                                                        <div class="clearfix text-formatted field field--name-field-rich-text field--type-text-with-summary field--label-hidden field__item">
+                                                                            <p>Intelligence you need to empower your supply chain</p>
+                                                                        </div>
+
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                    <div class="block block-layout-builder block-inline-blockcomponent">
+
+
+
+                                        <div class="field field--name-field-paragraph field--type-entity-reference-revisions field--label-hidden field__items">
+                                            <div class="field__item">
+
+
+                                                <div class="paragraph paragraph--type--about-us paragraph--view-mode--default about-us-wrapper component-with-title-line">
+                                                    <div class="about-us">
+                                                        <div class="about-us-data">
+                                                            <div class='about-us-data-item'>
+                                                                <div class="about-us-data-item-number">
+                                                                    <span>748</span>
+                                                                </div>
+                                                                <p>Distribution Centers and Offices</p>
+                                                            </div>
+                                                            <div class='about-us-data-item'>
+                                                                <div class="about-us-data-item-number">
+                                                                    <span>46</span>
+                                                                </div>
+                                                                <p>Countries and Regions</p>
+                                                            </div>
+                                                            <div class='about-us-data-item'>
+                                                                <div class="about-us-data-item-number">
+                                                                    <span>437</span>
+                                                                </div>
+                                                                <p>Cities Around the World</p>
+                                                            </div>
+                                                        </div>
+                                                        <div class="about-us-content">
+                                                            <div class="about-us-text-wrapper">
+                                                                <div class="com-title right">
+                                                                    <h1 style="text-align: center; margin: 0 auto;">
+                                                                        DELIVERING WORLD-CLASS SERVICE EVERYWHERE
+                                                                    </h1>
+                                                                    <div class="com-title-desc">
+
+                                                                        <div class="clearfix text-formatted field field--name-field-rich-text field--type-text-with-summary field--label-hidden field__item">
+                                                                            <p>We operate more than 748 distribution centers/offices in 437 cities in 46 countries and regions.&nbsp;</p>
+                                                                            <p>So no matter who our customers are or where they're based, we deliver world-class service, time and time again.</p>
+                                                                        </div>
+
+                                                                    </div>
+                                                                    <div class="com-title-link">
+
+                                                                        <div class="field field--name-field-link field--type-link field--label-hidden field__item"><a href="/about-us/find-an-office">Find an office</a></div>
+
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+
+                                                            <div class="about-us-content-map-container">
+                                                                <div class="about-us-content-map">
+                                                                    <div class="about-us-content-map-marker" data-region="americas">
+                                                                        <div class="about-us-content-map-marker-item">
+                                                                            <p>Americas</p>
+                                                                            <div class="about-us-content-map-marker-item-content">
+                                                                                <p>105</p>
+                                                                                <span>bases</span>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="about-us-content-map-marker-item-bg"></div>
+                                                                    </div>
+                                                                    <div class="about-us-content-map-marker" data-region="europe">
+                                                                        <div class="about-us-content-map-marker-item">
+                                                                            <p>Europe</p>
+                                                                            <div class="about-us-content-map-marker-item-content">
+                                                                                <p>159</p>
+                                                                                <span>bases</span>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="about-us-content-map-marker-item-bg"></div>
+                                                                    </div>
+                                                                    <div class="about-us-content-map-marker" data-region="east_asia">
+                                                                        <div class="about-us-content-map-marker-item">
+                                                                            <p>East Asia</p>
+                                                                            <div class="about-us-content-map-marker-item-content">
+                                                                                <p>87</p>
+                                                                                <span>bases</span>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="about-us-content-map-marker-item-bg"></div>
+                                                                    </div>
+                                                                    <div class="about-us-content-map-marker" data-region="south_asia_oceania">
+                                                                        <div class="about-us-content-map-marker-item">
+                                                                            <p>South Asia & Oceania</p>
+                                                                            <div class="about-us-content-map-marker-item-content">
+                                                                                <p>297</p>
+                                                                                <span>bases</span>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="about-us-content-map-marker-item-bg"></div>
+                                                                    </div>
+                                                                    <div class="about-us-content-map-marker" data-region="japan">
+                                                                        <div class="about-us-content-map-marker-item">
+                                                                            <p>Japan</p>
+                                                                            <div class="about-us-content-map-marker-item-content">
+                                                                                <p>100</p>
+                                                                                <span>bases</span>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="about-us-content-map-marker-item-bg"></div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+
+                                                    <div class="about-us-more">
+
+                                                        <div class="field field--name-field-simple-link field--type-link field--label-hidden field__item"><a href="/about-us/about-us-overview">LEARN MORE ABOUT US</a></div>
+
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                    <div class="block block-layout-builder block-inline-blockcomponent">
+
+
+
+                                        <div class="field field--name-field-paragraph field--type-entity-reference-revisions field--label-hidden field__items">
+                                            <div class="field__item">
+
+
+                                                <div class="paragraph paragraph--type--iv-icon-set paragraph--view-mode--default industry-vertical-wrapper component-with-title-line">
+                                                    <div class="industry-vertical-text-wrapper">
+                                                        <div class="com-title">
+                                                            <h1>
+                                                                INSIGHT INTO YOUR INDUSTRY
+                                                            </h1>
+                                                            <div class="com-title-desc">
+
+                                                                <div class="clearfix text-formatted field field--name-field-rich-text field--type-text-with-summary field--label-hidden field__item">
+                                                                    <p>Working as an integral part of your team, we have the logistics industry expertise to support your business and add value across your supply chain.</p>
+                                                                </div>
+
+                                                            </div>
+                                                        </div>
+                                                    </div>
+
+
+                                                    <div class="iv-icon-set-container">
+                                                        <div class="iv-icon-set-thumbnail-mobile"></div>
+                                                        <div class="field field--name-field-paragraph field--type-entity-reference-revisions field--label-hidden field__items swiper-wrapper">
+                                                            <div class="field__item swiper-slide">
+
+                                                                <div class="paragraph paragraph--type--icon paragraph--view-mode--industry-vertical icon-set-wrapper">
+                                                                    <a href="/industries/aerospace" class="icon-set-item">
+                                                                        <div class="icon-set-item-icons">
+                                                                            <div class="icon-set-item-icon">
+                                                                                <article class="media media--type-image media--view-mode-default">
+
+
+                                                                                    <div class="field field--name-field-media-image field--type-image field--label-hidden field__item"> <img loading="lazy" src="/sites/default/files/2021-11/aerospace_wheel.png" width="90" height="91" alt="Icon" typeof="foaf:Image" />
+
+                                                                                    </div>
+
+                                                                                </article>
+
+                                                                            </div>
+                                                                            <div class="icon-set-item-icon-hover">
+                                                                                <article class="media media--type-image media--view-mode-default">
+
+
+                                                                                    <div class="field field--name-field-media-image field--type-image field--label-hidden field__item"> <img loading="lazy" src="/sites/default/files/2021-11/content%20icon%20%281%29.png" width="91" height="91" alt="Icon" typeof="foaf:Image" />
+
+                                                                                    </div>
+
+                                                                                </article>
+
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="icon-set-item-title">
+                                                                            <p>Aerospace</p>
+                                                                        </div>
+                                                                    </a>
+                                                                    <div class="iv-icon-set-item-thumbnail">
+
+                                                                        <div class="field field--name-field-thumbnail field--type-entity-reference field--label-hidden field__item">
+                                                                            <article class="media media--type-image media--view-mode-default">
+
+
+                                                                                <div class="field field--name-field-media-image field--type-image field--label-hidden field__item"> <img loading="lazy" src="/sites/default/files/2022-02/Aerospace.png" width="550" height="625" alt="Aerospace" typeof="foaf:Image" />
+
+                                                                                </div>
+
+                                                                            </article>
+                                                                        </div>
+
+                                                                        <div class="iv-icon-set-item-thumbnail-desc">
+                                                                            <p>Keep your business flying</p>
+
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="field__item swiper-slide">
+
+                                                                <div class="paragraph paragraph--type--icon paragraph--view-mode--industry-vertical icon-set-wrapper">
+                                                                    <a href="/industries/automotive" class="icon-set-item">
+                                                                        <div class="icon-set-item-icons">
+                                                                            <div class="icon-set-item-icon">
+                                                                                <article class="media media--type-image media--view-mode-default">
+
+
+                                                                                    <div class="field field--name-field-media-image field--type-image field--label-hidden field__item"> <img loading="lazy" src="/sites/default/files/2021-11/content%20icon%20%282%29.png" width="91" height="91" alt="Icon" typeof="foaf:Image" />
+
+                                                                                    </div>
+
+                                                                                </article>
+
+                                                                            </div>
+                                                                            <div class="icon-set-item-icon-hover">
+                                                                                <article class="media media--type-image media--view-mode-default">
+
+
+                                                                                    <div class="field field--name-field-media-image field--type-image field--label-hidden field__item"> <img loading="lazy" src="/sites/default/files/2021-11/content%20icon%20%286%29.png" width="90" height="91" alt="Icon" typeof="foaf:Image" />
+
+                                                                                    </div>
+
+                                                                                </article>
+
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="icon-set-item-title">
+                                                                            <p>Automotive</p>
+                                                                        </div>
+                                                                    </a>
+                                                                    <div class="iv-icon-set-item-thumbnail">
+
+                                                                        <div class="field field--name-field-thumbnail field--type-entity-reference field--label-hidden field__item">
+                                                                            <article class="media media--type-image media--view-mode-default">
+
+
+                                                                                <div class="field field--name-field-media-image field--type-image field--label-hidden field__item"> <img loading="lazy" src="/sites/default/files/2022-02/Automotive.png" width="550" height="625" alt="Automotive" typeof="foaf:Image" />
+
+                                                                                </div>
+
+                                                                            </article>
+                                                                        </div>
+
+                                                                        <div class="iv-icon-set-item-thumbnail-desc">
+                                                                            <p>Turn changes into advantages</p>
+
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="field__item swiper-slide">
+
+                                                                <div class="paragraph paragraph--type--icon paragraph--view-mode--industry-vertical icon-set-wrapper">
+                                                                    <a href="/industries/food" class="icon-set-item">
+                                                                        <div class="icon-set-item-icons">
+                                                                            <div class="icon-set-item-icon">
+                                                                                <article class="media media--type-image media--view-mode-default">
+
+
+                                                                                    <div class="field field--name-field-media-image field--type-image field--label-hidden field__item"> <img loading="lazy" src="/sites/default/files/2021-11/content%20icon%20%283%29.png" width="90" height="91" alt="Icon" typeof="foaf:Image" />
+
+                                                                                    </div>
+
+                                                                                </article>
+
+                                                                            </div>
+                                                                            <div class="icon-set-item-icon-hover">
+                                                                                <article class="media media--type-image media--view-mode-default">
+
+
+                                                                                    <div class="field field--name-field-media-image field--type-image field--label-hidden field__item"> <img loading="lazy" src="/sites/default/files/2021-11/content%20icon%20%287%29.png" width="90" height="91" alt="Icon" typeof="foaf:Image" />
+
+                                                                                    </div>
+
+                                                                                </article>
+
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="icon-set-item-title">
+                                                                            <p>Food</p>
+                                                                        </div>
+                                                                    </a>
+                                                                    <div class="iv-icon-set-item-thumbnail">
+
+                                                                        <div class="field field--name-field-thumbnail field--type-entity-reference field--label-hidden field__item">
+                                                                            <article class="media media--type-image media--view-mode-default">
+
+
+                                                                                <div class="field field--name-field-media-image field--type-image field--label-hidden field__item"> <img loading="lazy" src="/sites/default/files/2022-02/Food.png" width="550" height="625" alt="Food" typeof="foaf:Image" />
+
+                                                                                </div>
+
+                                                                            </article>
+                                                                        </div>
+
+                                                                        <div class="iv-icon-set-item-thumbnail-desc">
+                                                                            <p>Stay cool and connected as tastes change</p>
+
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="field__item swiper-slide">
+
+                                                                <div class="paragraph paragraph--type--icon paragraph--view-mode--industry-vertical icon-set-wrapper">
+                                                                    <a href="/industries/healthcare" class="icon-set-item">
+                                                                        <div class="icon-set-item-icons">
+                                                                            <div class="icon-set-item-icon">
+                                                                                <article class="media media--type-image media--view-mode-default">
+
+
+                                                                                    <div class="field field--name-field-media-image field--type-image field--label-hidden field__item"> <img loading="lazy" src="/sites/default/files/2021-11/content%20icon%20%284%29.png" width="91" height="91" alt="Icon" typeof="foaf:Image" />
+
+                                                                                    </div>
+
+                                                                                </article>
+
+                                                                            </div>
+                                                                            <div class="icon-set-item-icon-hover">
+                                                                                <article class="media media--type-image media--view-mode-default">
+
+
+                                                                                    <div class="field field--name-field-media-image field--type-image field--label-hidden field__item"> <img loading="lazy" src="/sites/default/files/2021-11/content%20icon%20%288%29.png" width="90" height="91" alt="Icon" typeof="foaf:Image" />
+
+                                                                                    </div>
+
+                                                                                </article>
+
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="icon-set-item-title">
+                                                                            <p>Healthcare</p>
+                                                                        </div>
+                                                                    </a>
+                                                                    <div class="iv-icon-set-item-thumbnail">
+
+                                                                        <div class="field field--name-field-thumbnail field--type-entity-reference field--label-hidden field__item">
+                                                                            <article class="media media--type-image media--view-mode-default">
+
+
+                                                                                <div class="field field--name-field-media-image field--type-image field--label-hidden field__item"> <img loading="lazy" src="/sites/default/files/2022-02/Healthcare.png" width="550" height="625" alt="Healthcare" typeof="foaf:Image" />
+
+                                                                                </div>
+
+                                                                            </article>
+                                                                        </div>
+
+                                                                        <div class="iv-icon-set-item-thumbnail-desc">
+                                                                            <p>Ensure the integrity of your medical or pharmaceutical cargo</p>
+
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="field__item swiper-slide">
+
+                                                                <div class="paragraph paragraph--type--icon paragraph--view-mode--industry-vertical icon-set-wrapper">
+                                                                    <a href="/industries/retail" class="icon-set-item">
+                                                                        <div class="icon-set-item-icons">
+                                                                            <div class="icon-set-item-icon">
+                                                                                <article class="media media--type-image media--view-mode-default">
+
+
+                                                                                    <div class="field field--name-field-media-image field--type-image field--label-hidden field__item"> <img loading="lazy" src="/sites/default/files/2021-11/content%20icon%20%285%29.png" width="91" height="91" alt="Icon" typeof="foaf:Image" />
+
+                                                                                    </div>
+
+                                                                                </article>
+
+                                                                            </div>
+                                                                            <div class="icon-set-item-icon-hover">
+                                                                                <article class="media media--type-image media--view-mode-default">
+
+
+                                                                                    <div class="field field--name-field-media-image field--type-image field--label-hidden field__item"> <img loading="lazy" src="/sites/default/files/2021-11/content%20icon%20%289%29.png" width="91" height="91" alt="Icon" typeof="foaf:Image" />
+
+                                                                                    </div>
+
+                                                                                </article>
+
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="icon-set-item-title">
+                                                                            <p>Retail</p>
+                                                                        </div>
+                                                                    </a>
+                                                                    <div class="iv-icon-set-item-thumbnail">
+
+                                                                        <div class="field field--name-field-thumbnail field--type-entity-reference field--label-hidden field__item">
+                                                                            <article class="media media--type-image media--view-mode-default">
+
+
+                                                                                <div class="field field--name-field-media-image field--type-image field--label-hidden field__item"> <img loading="lazy" src="/sites/default/files/2022-02/Retail.png" width="550" height="625" alt="Retail" typeof="foaf:Image" />
+
+                                                                                </div>
+
+                                                                            </article>
+                                                                        </div>
+
+                                                                        <div class="iv-icon-set-item-thumbnail-desc">
+                                                                            <p>Get the right goods on the right shelves at the right time</p>
+
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="field__item swiper-slide">
+
+                                                                <div class="paragraph paragraph--type--icon paragraph--view-mode--industry-vertical icon-set-wrapper">
+                                                                    <a href="/industries/technology" class="icon-set-item">
+                                                                        <div class="icon-set-item-icons">
+                                                                            <div class="icon-set-item-icon">
+                                                                                <article class="media media--type-image media--view-mode-default">
+
+
+                                                                                    <div class="field field--name-field-media-image field--type-image field--label-hidden field__item"> <img loading="lazy" src="/sites/default/files/2021-11/Group%20%281%29.png" width="91" height="91" alt="Icon" typeof="foaf:Image" />
+
+                                                                                    </div>
+
+                                                                                </article>
+
+                                                                            </div>
+                                                                            <div class="icon-set-item-icon-hover">
+                                                                                <article class="media media--type-image media--view-mode-default">
+
+
+                                                                                    <div class="field field--name-field-media-image field--type-image field--label-hidden field__item"> <img loading="lazy" src="/sites/default/files/2021-11/content%20icon%20%2810%29.png" width="90" height="91" alt="Icon" typeof="foaf:Image" />
+
+                                                                                    </div>
+
+                                                                                </article>
+
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="icon-set-item-title">
+                                                                            <p>Technology</p>
+                                                                        </div>
+                                                                    </a>
+                                                                    <div class="iv-icon-set-item-thumbnail">
+
+                                                                        <div class="field field--name-field-thumbnail field--type-entity-reference field--label-hidden field__item">
+                                                                            <article class="media media--type-image media--view-mode-default">
+
+
+                                                                                <div class="field field--name-field-media-image field--type-image field--label-hidden field__item"> <img loading="lazy" src="/sites/default/files/2022-02/Technology.png" width="550" height="625" alt="Technology" typeof="foaf:Image" />
+
+                                                                                </div>
+
+                                                                            </article>
+                                                                        </div>
+
+                                                                        <div class="iv-icon-set-item-thumbnail-desc">
+                                                                            <p>Put your sensitive products in safe hands</p>
+
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="swiper-pagination swiper-pagination-iv-icon-set"></div>
+                                                    </div>
+
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                    </div>
+
+                                </div>
+                            </div>
+                            <div class="layout grid-layout--onecol-section grid-layout--onecol-section--12 layout--onecol">
+                                <div class="layout__region layout__region--content layout--onecol-with-container">
+
+
+
+
+
+                    </div>
+                    </article>
+
+                </div>
+                <div class="geo-recommend block block-yusen-geo-recommend" id="block-georecommend" data-id="geo-recommend"></div>
+
+        </div>
+
+        </main>
+        </div>
+
+        
